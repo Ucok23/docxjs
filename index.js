@@ -1,4 +1,3 @@
-// Generating my CV with docx
 const docx = require("docx");
 const express = require("express");
 const path = require('path');
